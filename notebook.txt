@@ -23,6 +23,8 @@ Dr. Stephen Chang
 03 Sep | Me       | 2204  | 2215 |     N/A      |   10     | 11  | Reasoned basic structure of ex 10; determined what cond to default to and how to get there
 03 Sep | Me       | 2215  | 2220 |     N/A      |   10     | 05  | Completed ex 10: contract, purpose statement, examples, definition; no issues
 ============committing to git: 03 Sep 2235 ===================
+03 Sep | Me       | 2240  | 2306 |     N/A      |   06     | 26  | Completed ex 6: contract, purpose statement, examples, definition; no issues; solved for positive root after opening webpage in IE (the equation rendered there)
+============committing to git: 03 Sep 2310 ===================
     
 Total Time On Task Q1 (minutes)                  XXX 
 Total Time On Task Q2 (minutes)                  XXX 
